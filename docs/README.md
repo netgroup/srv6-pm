@@ -21,6 +21,10 @@ This project is part of the [ROSE project](https://netgroup.github.io/rose/).
 
 ### Scientific papers 
 
+- P. Loreti, A. Mayer, P. Lungaroni, F. Lombardo, C. Scarpitta, G. Sidoretti, L. Bracciale, M. Ferrari, S. Salsano, A. Abdelsalam, R. Gandhi, C. Filsfils,<br>
+["SRv6-PM: A Cloud-Native Architecture for Performance Monitoring of SRv6 Networks"](https://arxiv.org/pdf/2007.08633.pdf),<br>
+accepted for publication in IEEE Transaction on Network and Service Management, special issue on “Advanced Management of Softwarized Networks” ([pdf-preprint](https://arxiv.org/pdf/2007.08633.pdf))
+
 - P. Loreti, A. Mayer, P. Lungaroni, S. Salsano, R. Gandhi, C. Filsfils,
 "[Implementation of Accurate Per-Flow Packet Loss Monitoring in Segment Routing over IPv6 Networks](https://arxiv.org/pdf/2004.11414)", 
 IEEE International Conference on High Performance Switching and Routing, (HPSR 2020), 11-14 May 2020, Virtual Conference. 
