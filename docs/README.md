@@ -17,7 +17,16 @@ This project is part of the [ROSE project](https://netgroup.github.io/rose/).
 
 ### Control plane 
 
-[srv6-pm-control](https://github.com/netgroup/srv6-pm-control) : Generation and processing of Loss Measurement Protocol Packets (based on scapy)
+[rose-srv6-control-plane](https://github.com/netgroup/rose-srv6-control-plane) : Generation and processing of Loss Measurement Protocol Packets (based on scapy)
+
+### Data plane 
+[rose-srv6-data-plane](https://github.com/netgroup/rose-srv6-data-plane)
+
+### The Mininet topology 
+The Mininet topology used in the loss monitoring experiments is called 8r-1c-srv6-pm and it can be found in this repo:
+[rose-srv6-tutorial](https://github.com/netgroup/rose-srv6-tutorial)
+
+
 
 ### Scientific papers 
 
